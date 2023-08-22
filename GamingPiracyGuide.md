@@ -663,7 +663,7 @@
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
 * [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
-
+* [Crossword solver] (https://www.unscramblerer.com/crossword-solver/) - helps to solve missing letters crossword puzzles
 ***
 
 ## ▷ Incremental / Idle
